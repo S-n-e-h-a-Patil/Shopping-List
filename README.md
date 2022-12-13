@@ -2,13 +2,10 @@
 using Reactjs
 
 Application which is used to create Shopping list and to add, edit, delete items in the list.
-.
-.
-.
-.
-.
-.
-.
+
+
+
+
 
 ![1](https://user-images.githubusercontent.com/90276347/207262744-e2c8e671-602f-4eae-b376-9a0fd8902f12.PNG)
 
